@@ -1,53 +1,45 @@
-# Web Dev Pro - Empowering Developers, Inspiring Innovators
+# Ad Web Comic - Web Development Company
 
 ## Overview
 
-Web Dev Pro is a dynamic web development company founded in 2023 by Muhammed Adnan. As a startup business, our mission is to empower aspiring developers, providing them with the skills and knowledge needed to thrive in the ever-evolving world of web development.
-
-## Courses Offered
-
-### 1. AI Prompt Engineering Course
-
-- **Description:** Explore the fascinating world of artificial intelligence through our AI Prompt Engineering course. Gain hands-on experience in leveraging AI technologies to enhance web development projects.
-
-- **Key Topics:**
-  - Introduction to AI in Web Development
-  - Natural Language Processing (NLP) for Code Generation
-  - AI-powered User Experiences
-
-### 2. App Modding Course
-
-- **Description:** Unleash your creativity with our App Modding course, designed to teach you the art of modifying and enhancing applications. Learn how to customize and optimize existing apps for a personalized user experience.
-
-- **Key Topics:**
-  - Basics of App Modification
-  - Reverse Engineering and Code Modification
-  - User Interface (UI) and User Experience (UX) Enhancement
+Welcome to Ad Web Comic, a dynamic web development company founded in 2023 by Muhammed Adnan. As a startup business, we are dedicated to providing cutting-edge solutions in website development, web applications, and innovative bots for platforms like WhatsApp and Discord. In addition to our development services, we are committed to fostering skill development in the tech community by offering specialized courses.
 
 ## Founder
 
-- **Name:** Muhammed Adnan
-- **Background:** Muhammed Adnan brings a wealth of experience and expertise in web development. His passion for innovation and education has been the driving force behind the creation of AD web Comic Company.
+**Muhammed Adnan**
+- Founder and visionary behind Ad Web Comic.
+- A seasoned professional with a passion for technology and innovation.
 
-## Getting Started
+## Services
 
-To get started with our courses, follow these simple steps:
+### Web Development
+We specialize in creating responsive and user-friendly websites that cater to the unique needs of our clients. Our team of skilled developers is committed to delivering high-quality web solutions.
 
-1. Visit our website: [Web Dev Pro](https://ad-web-comic-course.cyberkozhi0.repl.co/)
-2. Explore our course catalog and choose the one that suits your interests.
-3. Enroll in the course and start your journey to becoming a proficient web developer.
+### Web Applications
+In the ever-evolving digital landscape, we design and develop custom web applications that empower businesses and individuals.
 
-## Feedback and Support
+### Bots Development
+Explore the world of automation with our bots for popular messaging platforms like WhatsApp and Discord. Enhance your communication and engagement with your audience.
 
-We value your feedback and are here to support you throughout your learning journey. If you have any questions, concerns, or suggestions, please reach out to our support team at support@webdevpro.com.
+## Courses Offered
 
-## Contributing
+### AI Prompt Engineering Course
+Empower yourself with the knowledge and skills needed for AI prompt engineering. Learn the intricacies of crafting effective prompts to harness the power of artificial intelligence.
 
-Interested in contributing to our courses or collaborating with Web Dev Pro? Check out our [Contributing Guidelines](CONTRIBUTING.md) to get started.
+### App Modding Course
+Unlock the world of application modification with our comprehensive App Modding Course. Customize and enhance existing applications to suit your unique requirements.
 
-## License
+## Mission Statement
 
-This project is licensed under the [serwq License](LICENSE).
+At Ad Web Comic, our mission is to be at the forefront of technological innovation. We aim to provide exceptional development services while contributing to the growth of the tech community through quality education and skill enhancement.
 
----
-© 2023 Web Dev Pro. All rights reserved.
+## Contact Information
+
+For inquiries, collaborations, or course enrollments, feel free to reach out:
+
+- **Email:** [adnanmuhammad4393@gmail.com](mailto:adnanmuhammad4393@gmail.com)
+- **Phone:** +91 9656778508
+
+
+
+Thank you for considering Ad Web Comic for your web development and educational needs. We look forward to being a part of your digital journey!
