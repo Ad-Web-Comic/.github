@@ -33,7 +33,7 @@ Web Dev Pro is a dynamic web development company founded in 2023 by Muhammed Adn
 
 To get started with our courses, follow these simple steps:
 
-1. Visit our website: [Web Dev Pro](https://www.webdevpro.com)
+1. Visit our website: [Web Dev Pro](https://ad-web-comic-course.cyberkozhi0.repl.co/)
 2. Explore our course catalog and choose the one that suits your interests.
 3. Enroll in the course and start your journey to becoming a proficient web developer.
 
@@ -47,7 +47,7 @@ Interested in contributing to our courses or collaborating with Web Dev Pro? Che
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [serwq License](LICENSE).
 
 ---
 © 2023 Web Dev Pro. All rights reserved.
